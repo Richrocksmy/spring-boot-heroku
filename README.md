@@ -17,3 +17,9 @@ Add the Heroku origin if it hasn't already been added:
 Push to Heroku:
 
 ```git push heroku master```
+
+Open the app:
+
+```heroku open```
+
+Profit.
